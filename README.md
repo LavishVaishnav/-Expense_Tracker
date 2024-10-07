@@ -1,5 +1,10 @@
 # Expense Tracker App
 
+## Status: Ongoing Project
+
+This project is currently under development. The current focus is on implementing the **AuthService** with **JWT (JSON Web Token)** for authentication and **Refresh Token** functionality to ensure secure and efficient user login sessions.
+
+---
 ## Overview
 The **Expense Tracker App** helps users manage their personal finances by allowing them to log expenses, track categorized spending, and generate reports. It also offers future scope for automatic expense tracking via SMS parsing and notification features through WhatsApp and SMS.
 
