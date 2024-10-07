@@ -32,7 +32,7 @@ The system is built on microservices architecture with the following components:
 - **Reporting Service**: Generates reports based on user data, providing insights into spending behavior.
 
 ### System Diagram
-![System Architecture](link_to_diagram_image)
+![System Architecture](https://github.com/LavishVaishnav/-Expense_Tracker/blob/main/HLD.png)
 
 ## Tools and Technologies Used
 
@@ -49,3 +49,34 @@ The system is built on microservices architecture with the following components:
    ```bash
    git clone https://github.com/your-username/expense-tracker-app.git
    cd expense-tracker-app
+Here’s the text you wanted to copy:
+
+---
+
+### Set up Docker:
+
+2. Ensure Docker and Docker Compose are installed.
+3. Run the services with:
+
+```bash
+docker-compose up --build
+```
+
+### Run the application:
+
+- The application runs on `http://localhost:8080` (or as defined in your configuration).
+- Set up your environment variables for the required services (e.g., Redis, RabbitMQ, etc.).
+
+---
+
+### Future Enhancements:
+- Adding support for multi-currency tracking.
+- Integrating machine learning to predict user expenses.
+- Providing more advanced financial insights and suggestions.
+
+---
+
+### Contact:
+For any inquiries or issues, feel free to open an issue on GitHub or contact us directly at `vaishnavlavish27@gmail.com`.
+
+
