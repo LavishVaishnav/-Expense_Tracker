@@ -47,7 +47,7 @@ The system is built on microservices architecture with the following components:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/expense-tracker-app.git
+   https://github.com/LavishVaishnav/-Expense_Tracker
    cd expense-tracker-app
 Here’s the text you wanted to copy:
 
